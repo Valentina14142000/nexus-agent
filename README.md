@@ -19,7 +19,7 @@ NexusAgent is an advanced AI platform featuring a FastAPI backend, a Next.js fro
 
    Run with Docker Compose:
 
-Bash
+```bash
 docker compose up --build -d
 Access the services:
 
